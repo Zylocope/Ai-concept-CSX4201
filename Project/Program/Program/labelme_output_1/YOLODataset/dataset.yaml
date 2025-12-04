@@ -1,0 +1,37 @@
+path: \\?\D:\Course\Ai concept CSX4201\Project\Program\Program\labelme_output\YOLODataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: InvoiceId
+    1: InvoiceTotal
+    2: Amount
+    3: Description
+    4: Unit
+    5: UnitPrice
+    6: VendorAddress
+    7: VendorAddressRecipient
+    8: VendorName
+    9: AmountDue
+    10: CustomerAddress
+    11: CustomerAddressRecipient
+    12: CustomerName
+    13: InvoiceDate
+    14: Quantity
+    15: SubTotal
+    16: TotalDiscount
+    17: VendorTaxId
+    18: BillingAddress
+    19: BillingAddressRecipient
+    20: TotalTax
+    21: RemittanceAddressRecipient
+    22: ServiceEndDate
+    23: ServiceStartDate
+    24: CustomerTaxId
+    25: DueDate
+    26: Tax
+    27: TaxRate
+    28: PaymentTerm
+    29: PurchaseOrder
+    30: ShippingAddress

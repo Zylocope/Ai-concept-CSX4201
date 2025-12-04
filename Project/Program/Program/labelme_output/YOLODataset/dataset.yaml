@@ -1,0 +1,36 @@
+
+train: /content/drive/MyDrive/AI_project_final/dataset_yolov10/train/images
+val: /content/drive/MyDrive/AI_project_final/dataset_yolov10/val/images
+test: /content/drive/MyDrive/AI_project_final/dataset_yolov10/test/images
+names:
+    0: CustomerAddress
+    1: CustomerAddressRecipient
+    2: CustomerName
+    3: InvoiceDate
+    4: InvoiceId
+    5: InvoiceTotal
+    6: Amount
+    7: Description
+    8: TotalDiscount
+    9: VendorAddress
+    10: VendorAddressRecipient
+    11: VendorName
+    12: VendorTaxId
+    13: AmountDue
+    14: BillingAddress
+    15: BillingAddressRecipient
+    16: Quantity
+    17: UnitPrice
+    18: SubTotal
+    19: TotalTax
+    20: Unit
+    21: TaxRate
+    22: RemittanceAddressRecipient
+    23: DueDate
+    24: Tax
+    25: PurchaseOrder
+    26: ShippingAddress
+    27: ServiceEndDate
+    28: ServiceStartDate
+    29: CustomerTaxId
+    30: PaymentTerm
