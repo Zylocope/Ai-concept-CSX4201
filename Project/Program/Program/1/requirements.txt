@@ -1,0 +1,8 @@
+requests
+Pillow
+labelme
+azure-ai-documentintelligence
+
+
+# Train YOLO11n on COCO8 for 3 epochs
+!yolo train model=/content/drive/MyDrive/AI project/YOLODataset/yolo11s.pt data=/content/drive/MyDrive/AI project/YOLODataset/dataset.yaml epochs=20 batch=8 imgsz=512 project=/content/drive/MyDrive/AI project/YOLODataset/Model

@@ -1,0 +1,1212 @@
+2025-03-01 21:24:27,956 - INFO: === Logging in ===
+2025-03-01 21:24:31,244 - INFO: Login successful!
+2025-03-01 21:24:31,247 - WARNING: Custom font not found, using default.
+2025-03-01 21:24:31,248 - INFO: Found 117 image files to process.
+2025-03-01 21:24:31,248 - ERROR: Error processing input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\1732814959741.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\1732814963205.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\1732814965180.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,249 - ERROR: Error processing input_images\1732814968214.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_031733.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_031829.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_031856.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_032159_730.png: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_032201_366.png: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_032437_836.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_032437_883.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,250 - ERROR: Error processing input_images\IMG_20241129_032437_955.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032438_088.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032438_396.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032438_422.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032438_472.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032438_519.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032615_776.png: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032620_688.png: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_032624_342.png: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\IMG_20241129_191236_139.png: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,251 - ERROR: Error processing input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg: name 'process_image' is not defined
+2025-03-01 21:24:31,252 - ERROR: Error processing input_images\Screenshot 2024-11-29 000139.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 011520.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 011532.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 011638.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 011745.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 012641.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 012648.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 012658.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 012806.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 021226.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 091332.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 091456.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 092934.png: name 'process_image' is not defined
+2025-03-01 21:24:31,253 - ERROR: Error processing input_images\Screenshot 2024-11-29 093109.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 132752.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 133010.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 133235.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 135410.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 135921.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 140007.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 140217.png: name 'process_image' is not defined
+2025-03-01 21:24:31,254 - ERROR: Error processing input_images\Screenshot 2024-11-29 140340.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 140407.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 140442.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 140729.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 140848.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 141354.png: name 'process_image' is not defined
+2025-03-01 21:24:31,255 - ERROR: Error processing input_images\Screenshot 2024-11-29 141542.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 141844.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 142108.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 142251.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 142333.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 142546.png: name 'process_image' is not defined
+2025-03-01 21:24:31,256 - ERROR: Error processing input_images\Screenshot 2024-11-29 142622.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 142742.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 145754.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 145832.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 145956.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 150023.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 153449.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 153827.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 154023.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 154322.png: name 'process_image' is not defined
+2025-03-01 21:24:31,257 - ERROR: Error processing input_images\Screenshot 2024-11-29 154752.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 154934.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155024.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155114.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155141.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155228.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155250.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155335.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 155433.png: name 'process_image' is not defined
+2025-03-01 21:24:31,258 - ERROR: Error processing input_images\Screenshot 2024-11-29 191133.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2024-11-29 191145.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200503.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200515.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200526.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200539.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200549.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200604.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200615.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200625.png: name 'process_image' is not defined
+2025-03-01 21:24:31,259 - ERROR: Error processing input_images\Screenshot 2025-03-01 200635.png: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot 2025-03-01 200644.png: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot 2025-03-01 200705.png: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot 2025-03-01 200714.png: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,260 - ERROR: Error processing input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,261 - ERROR: Error processing input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,261 - ERROR: Error processing input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,261 - ERROR: Error processing input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,261 - ERROR: Error processing input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg: name 'process_image' is not defined
+2025-03-01 21:24:31,261 - INFO: 
+--- Processing Summary ---
+2025-03-01 21:24:31,261 - INFO: Total images: 117
+2025-03-01 21:24:31,261 - INFO: Successfully processed: 0
+2025-03-01 21:24:31,261 - INFO: Skipped images: 0
+2025-03-01 21:24:31,262 - INFO: Errors encountered: 117
+2025-03-01 21:26:57,730 - INFO: === Logging in ===
+2025-03-01 21:26:57,984 - INFO: Login successful!
+2025-03-01 21:26:57,988 - WARNING: Custom font not found, using default.
+2025-03-01 21:26:57,988 - INFO: Found 117 image files to process.
+2025-03-01 21:26:57,988 - INFO: Processing image: input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg
+2025-03-01 21:26:58,098 - ERROR: Error during prediction for input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,098 - INFO: Progress: 1/117 images processed
+2025-03-01 21:26:58,099 - INFO: Processing image: input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg
+2025-03-01 21:26:58,198 - ERROR: Error during prediction for input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,198 - INFO: Progress: 2/117 images processed
+2025-03-01 21:26:58,198 - INFO: Processing image: input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg
+2025-03-01 21:26:58,292 - ERROR: Error during prediction for input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,292 - INFO: Progress: 3/117 images processed
+2025-03-01 21:26:58,292 - INFO: Processing image: input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg
+2025-03-01 21:26:58,397 - ERROR: Error during prediction for input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,398 - INFO: Progress: 4/117 images processed
+2025-03-01 21:26:58,398 - INFO: Processing image: input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg
+2025-03-01 21:26:58,458 - ERROR: Error during prediction for input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,459 - INFO: Progress: 5/117 images processed
+2025-03-01 21:26:58,459 - INFO: Processing image: input_images\1732814959741.jpg
+2025-03-01 21:26:58,546 - ERROR: Error during prediction for input_images\1732814959741.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,547 - INFO: Progress: 6/117 images processed
+2025-03-01 21:26:58,547 - INFO: Processing image: input_images\1732814963205.jpg
+2025-03-01 21:26:58,636 - ERROR: Error during prediction for input_images\1732814963205.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,637 - INFO: Progress: 7/117 images processed
+2025-03-01 21:26:58,637 - INFO: Processing image: input_images\1732814965180.jpg
+2025-03-01 21:26:58,721 - ERROR: Error during prediction for input_images\1732814965180.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,721 - INFO: Progress: 8/117 images processed
+2025-03-01 21:26:58,722 - INFO: Processing image: input_images\1732814968214.jpg
+2025-03-01 21:26:58,793 - ERROR: Error during prediction for input_images\1732814968214.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,794 - INFO: Progress: 9/117 images processed
+2025-03-01 21:26:58,794 - INFO: Processing image: input_images\IMG_20241129_031733.jpg
+2025-03-01 21:26:58,845 - ERROR: Error during prediction for input_images\IMG_20241129_031733.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,846 - INFO: Progress: 10/117 images processed
+2025-03-01 21:26:58,846 - INFO: Processing image: input_images\IMG_20241129_031829.jpg
+2025-03-01 21:26:58,894 - ERROR: Error during prediction for input_images\IMG_20241129_031829.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,894 - INFO: Progress: 11/117 images processed
+2025-03-01 21:26:58,895 - INFO: Processing image: input_images\IMG_20241129_031856.jpg
+2025-03-01 21:26:58,942 - ERROR: Error during prediction for input_images\IMG_20241129_031856.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:58,942 - INFO: Progress: 12/117 images processed
+2025-03-01 21:26:58,942 - INFO: Processing image: input_images\IMG_20241129_032159_730.png
+2025-03-01 21:26:59,019 - ERROR: Error during prediction for input_images\IMG_20241129_032159_730.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,019 - INFO: Progress: 13/117 images processed
+2025-03-01 21:26:59,020 - INFO: Processing image: input_images\IMG_20241129_032201_366.png
+2025-03-01 21:26:59,085 - ERROR: Error during prediction for input_images\IMG_20241129_032201_366.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,086 - INFO: Progress: 14/117 images processed
+2025-03-01 21:26:59,086 - INFO: Processing image: input_images\IMG_20241129_032437_836.jpg
+2025-03-01 21:26:59,169 - ERROR: Error during prediction for input_images\IMG_20241129_032437_836.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,169 - INFO: Progress: 15/117 images processed
+2025-03-01 21:26:59,169 - INFO: Processing image: input_images\IMG_20241129_032437_883.jpg
+2025-03-01 21:26:59,222 - ERROR: Error during prediction for input_images\IMG_20241129_032437_883.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,222 - INFO: Progress: 16/117 images processed
+2025-03-01 21:26:59,222 - INFO: Processing image: input_images\IMG_20241129_032437_955.jpg
+2025-03-01 21:26:59,272 - ERROR: Error during prediction for input_images\IMG_20241129_032437_955.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,273 - INFO: Progress: 17/117 images processed
+2025-03-01 21:26:59,273 - INFO: Processing image: input_images\IMG_20241129_032438_088.jpg
+2025-03-01 21:26:59,349 - ERROR: Error during prediction for input_images\IMG_20241129_032438_088.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,349 - INFO: Progress: 18/117 images processed
+2025-03-01 21:26:59,350 - INFO: Processing image: input_images\IMG_20241129_032438_396.jpg
+2025-03-01 21:26:59,412 - ERROR: Error during prediction for input_images\IMG_20241129_032438_396.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,412 - INFO: Progress: 19/117 images processed
+2025-03-01 21:26:59,412 - INFO: Processing image: input_images\IMG_20241129_032438_422.jpg
+2025-03-01 21:26:59,479 - ERROR: Error during prediction for input_images\IMG_20241129_032438_422.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,480 - INFO: Progress: 20/117 images processed
+2025-03-01 21:26:59,480 - INFO: Processing image: input_images\IMG_20241129_032438_472.jpg
+2025-03-01 21:26:59,563 - ERROR: Error during prediction for input_images\IMG_20241129_032438_472.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,563 - INFO: Progress: 21/117 images processed
+2025-03-01 21:26:59,564 - INFO: Processing image: input_images\IMG_20241129_032438_519.jpg
+2025-03-01 21:26:59,630 - ERROR: Error during prediction for input_images\IMG_20241129_032438_519.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,631 - INFO: Progress: 22/117 images processed
+2025-03-01 21:26:59,631 - INFO: Processing image: input_images\IMG_20241129_032615_776.png
+2025-03-01 21:26:59,697 - ERROR: Error during prediction for input_images\IMG_20241129_032615_776.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,698 - INFO: Progress: 23/117 images processed
+2025-03-01 21:26:59,698 - INFO: Processing image: input_images\IMG_20241129_032620_688.png
+2025-03-01 21:26:59,762 - ERROR: Error during prediction for input_images\IMG_20241129_032620_688.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,762 - INFO: Progress: 24/117 images processed
+2025-03-01 21:26:59,763 - INFO: Processing image: input_images\IMG_20241129_032624_342.png
+2025-03-01 21:26:59,826 - ERROR: Error during prediction for input_images\IMG_20241129_032624_342.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,827 - INFO: Progress: 25/117 images processed
+2025-03-01 21:26:59,827 - INFO: Processing image: input_images\IMG_20241129_191236_139.png
+2025-03-01 21:26:59,896 - ERROR: Error during prediction for input_images\IMG_20241129_191236_139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,896 - INFO: Progress: 26/117 images processed
+2025-03-01 21:26:59,897 - INFO: Processing image: input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg
+2025-03-01 21:26:59,982 - ERROR: Error during prediction for input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:26:59,983 - INFO: Progress: 27/117 images processed
+2025-03-01 21:26:59,983 - INFO: Processing image: input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg
+2025-03-01 21:27:00,047 - ERROR: Error during prediction for input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,048 - INFO: Progress: 28/117 images processed
+2025-03-01 21:27:00,048 - INFO: Processing image: input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg
+2025-03-01 21:27:00,134 - ERROR: Error during prediction for input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,135 - INFO: Progress: 29/117 images processed
+2025-03-01 21:27:00,135 - INFO: Processing image: input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg
+2025-03-01 21:27:00,212 - ERROR: Error during prediction for input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,212 - INFO: Progress: 30/117 images processed
+2025-03-01 21:27:00,212 - INFO: Processing image: input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg
+2025-03-01 21:27:00,281 - ERROR: Error during prediction for input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,282 - INFO: Progress: 31/117 images processed
+2025-03-01 21:27:00,282 - INFO: Processing image: input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg
+2025-03-01 21:27:00,346 - ERROR: Error during prediction for input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,347 - INFO: Progress: 32/117 images processed
+2025-03-01 21:27:00,347 - INFO: Processing image: input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg
+2025-03-01 21:27:00,412 - ERROR: Error during prediction for input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,413 - INFO: Progress: 33/117 images processed
+2025-03-01 21:27:00,413 - INFO: Processing image: input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg
+2025-03-01 21:27:00,481 - ERROR: Error during prediction for input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,482 - INFO: Progress: 34/117 images processed
+2025-03-01 21:27:00,482 - INFO: Processing image: input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg
+2025-03-01 21:27:00,572 - ERROR: Error during prediction for input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,572 - INFO: Progress: 35/117 images processed
+2025-03-01 21:27:00,573 - INFO: Processing image: input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg
+2025-03-01 21:27:00,662 - ERROR: Error during prediction for input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,662 - INFO: Progress: 36/117 images processed
+2025-03-01 21:27:00,662 - INFO: Processing image: input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg
+2025-03-01 21:27:00,727 - ERROR: Error during prediction for input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,727 - INFO: Progress: 37/117 images processed
+2025-03-01 21:27:00,727 - INFO: Processing image: input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg
+2025-03-01 21:27:00,799 - ERROR: Error during prediction for input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,799 - INFO: Progress: 38/117 images processed
+2025-03-01 21:27:00,799 - INFO: Processing image: input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg
+2025-03-01 21:27:00,864 - ERROR: Error during prediction for input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,864 - INFO: Progress: 39/117 images processed
+2025-03-01 21:27:00,864 - INFO: Processing image: input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg
+2025-03-01 21:27:00,955 - ERROR: Error during prediction for input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:00,955 - INFO: Progress: 40/117 images processed
+2025-03-01 21:27:00,956 - INFO: Processing image: input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg
+2025-03-01 21:27:01,025 - ERROR: Error during prediction for input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,025 - INFO: Progress: 41/117 images processed
+2025-03-01 21:27:01,025 - INFO: Processing image: input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg
+2025-03-01 21:27:01,096 - ERROR: Error during prediction for input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,097 - INFO: Progress: 42/117 images processed
+2025-03-01 21:27:01,097 - INFO: Processing image: input_images\Screenshot 2024-11-29 000139.png
+2025-03-01 21:27:01,179 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 000139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,180 - INFO: Progress: 43/117 images processed
+2025-03-01 21:27:01,180 - INFO: Processing image: input_images\Screenshot 2024-11-29 011520.png
+2025-03-01 21:27:01,231 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011520.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,232 - INFO: Progress: 44/117 images processed
+2025-03-01 21:27:01,232 - INFO: Processing image: input_images\Screenshot 2024-11-29 011532.png
+2025-03-01 21:27:01,282 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011532.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,282 - INFO: Progress: 45/117 images processed
+2025-03-01 21:27:01,283 - INFO: Processing image: input_images\Screenshot 2024-11-29 011638.png
+2025-03-01 21:27:01,333 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011638.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,333 - INFO: Progress: 46/117 images processed
+2025-03-01 21:27:01,333 - INFO: Processing image: input_images\Screenshot 2024-11-29 011745.png
+2025-03-01 21:27:01,396 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011745.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,397 - INFO: Progress: 47/117 images processed
+2025-03-01 21:27:01,397 - INFO: Processing image: input_images\Screenshot 2024-11-29 012641.png
+2025-03-01 21:27:01,460 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012641.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,461 - INFO: Progress: 48/117 images processed
+2025-03-01 21:27:01,461 - INFO: Processing image: input_images\Screenshot 2024-11-29 012648.png
+2025-03-01 21:27:01,527 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012648.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,528 - INFO: Progress: 49/117 images processed
+2025-03-01 21:27:01,528 - INFO: Processing image: input_images\Screenshot 2024-11-29 012658.png
+2025-03-01 21:27:01,592 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012658.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,592 - INFO: Progress: 50/117 images processed
+2025-03-01 21:27:01,592 - INFO: Processing image: input_images\Screenshot 2024-11-29 012806.png
+2025-03-01 21:27:01,671 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012806.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,671 - INFO: Progress: 51/117 images processed
+2025-03-01 21:27:01,671 - INFO: Processing image: input_images\Screenshot 2024-11-29 021226.png
+2025-03-01 21:27:01,738 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 021226.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,738 - INFO: Progress: 52/117 images processed
+2025-03-01 21:27:01,739 - INFO: Processing image: input_images\Screenshot 2024-11-29 091332.png
+2025-03-01 21:27:01,801 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091332.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,801 - INFO: Progress: 53/117 images processed
+2025-03-01 21:27:01,801 - INFO: Processing image: input_images\Screenshot 2024-11-29 091456.png
+2025-03-01 21:27:01,869 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091456.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,870 - INFO: Progress: 54/117 images processed
+2025-03-01 21:27:01,870 - INFO: Processing image: input_images\Screenshot 2024-11-29 092934.png
+2025-03-01 21:27:01,924 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 092934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,925 - INFO: Progress: 55/117 images processed
+2025-03-01 21:27:01,925 - INFO: Processing image: input_images\Screenshot 2024-11-29 093109.png
+2025-03-01 21:27:01,992 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 093109.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:01,993 - INFO: Progress: 56/117 images processed
+2025-03-01 21:27:01,993 - INFO: Processing image: input_images\Screenshot 2024-11-29 132752.png
+2025-03-01 21:27:02,073 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 132752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,074 - INFO: Progress: 57/117 images processed
+2025-03-01 21:27:02,074 - INFO: Processing image: input_images\Screenshot 2024-11-29 133010.png
+2025-03-01 21:27:02,137 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133010.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,138 - INFO: Progress: 58/117 images processed
+2025-03-01 21:27:02,138 - INFO: Processing image: input_images\Screenshot 2024-11-29 133235.png
+2025-03-01 21:27:02,199 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133235.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,200 - INFO: Progress: 59/117 images processed
+2025-03-01 21:27:02,200 - INFO: Processing image: input_images\Screenshot 2024-11-29 135410.png
+2025-03-01 21:27:02,262 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135410.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,263 - INFO: Progress: 60/117 images processed
+2025-03-01 21:27:02,263 - INFO: Processing image: input_images\Screenshot 2024-11-29 135921.png
+2025-03-01 21:27:02,326 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135921.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,327 - INFO: Progress: 61/117 images processed
+2025-03-01 21:27:02,327 - INFO: Processing image: input_images\Screenshot 2024-11-29 140007.png
+2025-03-01 21:27:02,376 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140007.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,377 - INFO: Progress: 62/117 images processed
+2025-03-01 21:27:02,377 - INFO: Processing image: input_images\Screenshot 2024-11-29 140217.png
+2025-03-01 21:27:02,443 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140217.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,443 - INFO: Progress: 63/117 images processed
+2025-03-01 21:27:02,443 - INFO: Processing image: input_images\Screenshot 2024-11-29 140340.png
+2025-03-01 21:27:02,508 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140340.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,508 - INFO: Progress: 64/117 images processed
+2025-03-01 21:27:02,508 - INFO: Processing image: input_images\Screenshot 2024-11-29 140407.png
+2025-03-01 21:27:02,572 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140407.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,573 - INFO: Progress: 65/117 images processed
+2025-03-01 21:27:02,573 - INFO: Processing image: input_images\Screenshot 2024-11-29 140442.png
+2025-03-01 21:27:02,638 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140442.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,638 - INFO: Progress: 66/117 images processed
+2025-03-01 21:27:02,638 - INFO: Processing image: input_images\Screenshot 2024-11-29 140729.png
+2025-03-01 21:27:02,702 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140729.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,703 - INFO: Progress: 67/117 images processed
+2025-03-01 21:27:02,703 - INFO: Processing image: input_images\Screenshot 2024-11-29 140848.png
+2025-03-01 21:27:02,768 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140848.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,768 - INFO: Progress: 68/117 images processed
+2025-03-01 21:27:02,769 - INFO: Processing image: input_images\Screenshot 2024-11-29 141354.png
+2025-03-01 21:27:02,838 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141354.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,839 - INFO: Progress: 69/117 images processed
+2025-03-01 21:27:02,839 - INFO: Processing image: input_images\Screenshot 2024-11-29 141542.png
+2025-03-01 21:27:02,905 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141542.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,906 - INFO: Progress: 70/117 images processed
+2025-03-01 21:27:02,906 - INFO: Processing image: input_images\Screenshot 2024-11-29 141844.png
+2025-03-01 21:27:02,970 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141844.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:02,970 - INFO: Progress: 71/117 images processed
+2025-03-01 21:27:02,970 - INFO: Processing image: input_images\Screenshot 2024-11-29 142108.png
+2025-03-01 21:27:03,038 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142108.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,039 - INFO: Progress: 72/117 images processed
+2025-03-01 21:27:03,039 - INFO: Processing image: input_images\Screenshot 2024-11-29 142251.png
+2025-03-01 21:27:03,105 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142251.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,105 - INFO: Progress: 73/117 images processed
+2025-03-01 21:27:03,105 - INFO: Processing image: input_images\Screenshot 2024-11-29 142333.png
+2025-03-01 21:27:03,168 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142333.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,168 - INFO: Progress: 74/117 images processed
+2025-03-01 21:27:03,168 - INFO: Processing image: input_images\Screenshot 2024-11-29 142546.png
+2025-03-01 21:27:03,233 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142546.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,234 - INFO: Progress: 75/117 images processed
+2025-03-01 21:27:03,234 - INFO: Processing image: input_images\Screenshot 2024-11-29 142622.png
+2025-03-01 21:27:03,298 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142622.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,298 - INFO: Progress: 76/117 images processed
+2025-03-01 21:27:03,299 - INFO: Processing image: input_images\Screenshot 2024-11-29 142742.png
+2025-03-01 21:27:03,360 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142742.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,361 - INFO: Progress: 77/117 images processed
+2025-03-01 21:27:03,361 - INFO: Processing image: input_images\Screenshot 2024-11-29 145754.png
+2025-03-01 21:27:03,427 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145754.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,428 - INFO: Progress: 78/117 images processed
+2025-03-01 21:27:03,428 - INFO: Processing image: input_images\Screenshot 2024-11-29 145832.png
+2025-03-01 21:27:03,493 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145832.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,494 - INFO: Progress: 79/117 images processed
+2025-03-01 21:27:03,494 - INFO: Processing image: input_images\Screenshot 2024-11-29 145956.png
+2025-03-01 21:27:03,560 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145956.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,561 - INFO: Progress: 80/117 images processed
+2025-03-01 21:27:03,561 - INFO: Processing image: input_images\Screenshot 2024-11-29 150023.png
+2025-03-01 21:27:03,632 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 150023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,633 - INFO: Progress: 81/117 images processed
+2025-03-01 21:27:03,633 - INFO: Processing image: input_images\Screenshot 2024-11-29 153449.png
+2025-03-01 21:27:03,696 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153449.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,697 - INFO: Progress: 82/117 images processed
+2025-03-01 21:27:03,697 - INFO: Processing image: input_images\Screenshot 2024-11-29 153827.png
+2025-03-01 21:27:03,760 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153827.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,760 - INFO: Progress: 83/117 images processed
+2025-03-01 21:27:03,761 - INFO: Processing image: input_images\Screenshot 2024-11-29 154023.png
+2025-03-01 21:27:03,828 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,828 - INFO: Progress: 84/117 images processed
+2025-03-01 21:27:03,828 - INFO: Processing image: input_images\Screenshot 2024-11-29 154322.png
+2025-03-01 21:27:03,893 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154322.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,893 - INFO: Progress: 85/117 images processed
+2025-03-01 21:27:03,893 - INFO: Processing image: input_images\Screenshot 2024-11-29 154752.png
+2025-03-01 21:27:03,952 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:03,953 - INFO: Progress: 86/117 images processed
+2025-03-01 21:27:03,953 - INFO: Processing image: input_images\Screenshot 2024-11-29 154934.png
+2025-03-01 21:27:04,015 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,016 - INFO: Progress: 87/117 images processed
+2025-03-01 21:27:04,016 - INFO: Processing image: input_images\Screenshot 2024-11-29 155024.png
+2025-03-01 21:27:04,079 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155024.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,079 - INFO: Progress: 88/117 images processed
+2025-03-01 21:27:04,079 - INFO: Processing image: input_images\Screenshot 2024-11-29 155114.png
+2025-03-01 21:27:04,141 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155114.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,141 - INFO: Progress: 89/117 images processed
+2025-03-01 21:27:04,142 - INFO: Processing image: input_images\Screenshot 2024-11-29 155141.png
+2025-03-01 21:27:04,214 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155141.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,215 - INFO: Progress: 90/117 images processed
+2025-03-01 21:27:04,215 - INFO: Processing image: input_images\Screenshot 2024-11-29 155228.png
+2025-03-01 21:27:04,278 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155228.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,279 - INFO: Progress: 91/117 images processed
+2025-03-01 21:27:04,279 - INFO: Processing image: input_images\Screenshot 2024-11-29 155250.png
+2025-03-01 21:27:04,338 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155250.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,339 - INFO: Progress: 92/117 images processed
+2025-03-01 21:27:04,339 - INFO: Processing image: input_images\Screenshot 2024-11-29 155335.png
+2025-03-01 21:27:04,402 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155335.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,402 - INFO: Progress: 93/117 images processed
+2025-03-01 21:27:04,403 - INFO: Processing image: input_images\Screenshot 2024-11-29 155433.png
+2025-03-01 21:27:04,464 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155433.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,465 - INFO: Progress: 94/117 images processed
+2025-03-01 21:27:04,465 - INFO: Processing image: input_images\Screenshot 2024-11-29 191133.png
+2025-03-01 21:27:04,539 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191133.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,539 - INFO: Progress: 95/117 images processed
+2025-03-01 21:27:04,539 - INFO: Processing image: input_images\Screenshot 2024-11-29 191145.png
+2025-03-01 21:27:04,614 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191145.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,615 - INFO: Progress: 96/117 images processed
+2025-03-01 21:27:04,615 - INFO: Processing image: input_images\Screenshot 2025-03-01 200503.png
+2025-03-01 21:27:04,679 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200503.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,680 - INFO: Progress: 97/117 images processed
+2025-03-01 21:27:04,680 - INFO: Processing image: input_images\Screenshot 2025-03-01 200515.png
+2025-03-01 21:27:04,745 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200515.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,745 - INFO: Progress: 98/117 images processed
+2025-03-01 21:27:04,745 - INFO: Processing image: input_images\Screenshot 2025-03-01 200526.png
+2025-03-01 21:27:04,810 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200526.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,810 - INFO: Progress: 99/117 images processed
+2025-03-01 21:27:04,811 - INFO: Processing image: input_images\Screenshot 2025-03-01 200539.png
+2025-03-01 21:27:04,874 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200539.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,875 - INFO: Progress: 100/117 images processed
+2025-03-01 21:27:04,875 - INFO: Processing image: input_images\Screenshot 2025-03-01 200549.png
+2025-03-01 21:27:04,937 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200549.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:04,937 - INFO: Progress: 101/117 images processed
+2025-03-01 21:27:04,937 - INFO: Processing image: input_images\Screenshot 2025-03-01 200604.png
+2025-03-01 21:27:05,000 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200604.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,001 - INFO: Progress: 102/117 images processed
+2025-03-01 21:27:05,001 - INFO: Processing image: input_images\Screenshot 2025-03-01 200615.png
+2025-03-01 21:27:05,062 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200615.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,063 - INFO: Progress: 103/117 images processed
+2025-03-01 21:27:05,063 - INFO: Processing image: input_images\Screenshot 2025-03-01 200625.png
+2025-03-01 21:27:05,125 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200625.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,126 - INFO: Progress: 104/117 images processed
+2025-03-01 21:27:05,126 - INFO: Processing image: input_images\Screenshot 2025-03-01 200635.png
+2025-03-01 21:27:05,190 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200635.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,190 - INFO: Progress: 105/117 images processed
+2025-03-01 21:27:05,190 - INFO: Processing image: input_images\Screenshot 2025-03-01 200644.png
+2025-03-01 21:27:05,259 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200644.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,259 - INFO: Progress: 106/117 images processed
+2025-03-01 21:27:05,259 - INFO: Processing image: input_images\Screenshot 2025-03-01 200705.png
+2025-03-01 21:27:05,327 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200705.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,327 - INFO: Progress: 107/117 images processed
+2025-03-01 21:27:05,327 - INFO: Processing image: input_images\Screenshot 2025-03-01 200714.png
+2025-03-01 21:27:05,404 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200714.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,404 - INFO: Progress: 108/117 images processed
+2025-03-01 21:27:05,405 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg
+2025-03-01 21:27:05,515 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,515 - INFO: Progress: 109/117 images processed
+2025-03-01 21:27:05,515 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg
+2025-03-01 21:27:05,615 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,616 - INFO: Progress: 110/117 images processed
+2025-03-01 21:27:05,616 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg
+2025-03-01 21:27:05,717 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,718 - INFO: Progress: 111/117 images processed
+2025-03-01 21:27:05,718 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg
+2025-03-01 21:27:05,826 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,827 - INFO: Progress: 112/117 images processed
+2025-03-01 21:27:05,827 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg
+2025-03-01 21:27:05,961 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:05,962 - INFO: Progress: 113/117 images processed
+2025-03-01 21:27:05,962 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg
+2025-03-01 21:27:06,063 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:06,064 - INFO: Progress: 114/117 images processed
+2025-03-01 21:27:06,064 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg
+2025-03-01 21:27:06,171 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:06,172 - INFO: Progress: 115/117 images processed
+2025-03-01 21:27:06,172 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg
+2025-03-01 21:27:06,279 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:06,279 - INFO: Progress: 116/117 images processed
+2025-03-01 21:27:06,279 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg
+2025-03-01 21:27:06,391 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:27:06,391 - INFO: Progress: 117/117 images processed
+2025-03-01 21:27:06,392 - INFO: 
+--- Processing Summary ---
+2025-03-01 21:27:06,392 - INFO: Total images: 117
+2025-03-01 21:27:06,392 - INFO: Successfully processed: 117
+2025-03-01 21:27:06,392 - INFO: Skipped images: 0
+2025-03-01 21:27:06,392 - INFO: Errors encountered: 0
+2025-03-01 21:30:16,243 - INFO: === Logging in ===
+2025-03-01 21:30:16,683 - ERROR: Login failed: 401 Client Error: UNAUTHORIZED for url: http://www.prom.ddnsfree.com:8989/login
+2025-03-01 21:31:44,156 - INFO: === Logging in ===
+2025-03-01 21:31:44,196 - INFO: Login successful!
+2025-03-01 21:31:44,200 - WARNING: Custom font not found, using default.
+2025-03-01 21:31:44,200 - INFO: Found 117 image files to process.
+2025-03-01 21:31:44,200 - INFO: Processing image: input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg
+2025-03-01 21:31:44,307 - ERROR: Error during prediction for input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,307 - INFO: Progress: 1/117 images processed
+2025-03-01 21:31:44,307 - INFO: Processing image: input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg
+2025-03-01 21:31:44,398 - ERROR: Error during prediction for input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,398 - INFO: Progress: 2/117 images processed
+2025-03-01 21:31:44,398 - INFO: Processing image: input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg
+2025-03-01 21:31:44,493 - ERROR: Error during prediction for input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,493 - INFO: Progress: 3/117 images processed
+2025-03-01 21:31:44,493 - INFO: Processing image: input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg
+2025-03-01 21:31:44,596 - ERROR: Error during prediction for input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,596 - INFO: Progress: 4/117 images processed
+2025-03-01 21:31:44,596 - INFO: Processing image: input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg
+2025-03-01 21:31:44,648 - ERROR: Error during prediction for input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,648 - INFO: Progress: 5/117 images processed
+2025-03-01 21:31:44,649 - INFO: Processing image: input_images\1732814959741.jpg
+2025-03-01 21:31:44,734 - ERROR: Error during prediction for input_images\1732814959741.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,735 - INFO: Progress: 6/117 images processed
+2025-03-01 21:31:44,735 - INFO: Processing image: input_images\1732814963205.jpg
+2025-03-01 21:31:44,825 - ERROR: Error during prediction for input_images\1732814963205.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,826 - INFO: Progress: 7/117 images processed
+2025-03-01 21:31:44,826 - INFO: Processing image: input_images\1732814965180.jpg
+2025-03-01 21:31:44,909 - ERROR: Error during prediction for input_images\1732814965180.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,909 - INFO: Progress: 8/117 images processed
+2025-03-01 21:31:44,910 - INFO: Processing image: input_images\1732814968214.jpg
+2025-03-01 21:31:44,974 - ERROR: Error during prediction for input_images\1732814968214.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:44,974 - INFO: Progress: 9/117 images processed
+2025-03-01 21:31:44,977 - INFO: Processing image: input_images\IMG_20241129_031733.jpg
+2025-03-01 21:31:45,028 - ERROR: Error during prediction for input_images\IMG_20241129_031733.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,029 - INFO: Progress: 10/117 images processed
+2025-03-01 21:31:45,029 - INFO: Processing image: input_images\IMG_20241129_031829.jpg
+2025-03-01 21:31:45,076 - ERROR: Error during prediction for input_images\IMG_20241129_031829.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,076 - INFO: Progress: 11/117 images processed
+2025-03-01 21:31:45,076 - INFO: Processing image: input_images\IMG_20241129_031856.jpg
+2025-03-01 21:31:45,126 - ERROR: Error during prediction for input_images\IMG_20241129_031856.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,127 - INFO: Progress: 12/117 images processed
+2025-03-01 21:31:45,127 - INFO: Processing image: input_images\IMG_20241129_032159_730.png
+2025-03-01 21:31:45,203 - ERROR: Error during prediction for input_images\IMG_20241129_032159_730.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,204 - INFO: Progress: 13/117 images processed
+2025-03-01 21:31:45,204 - INFO: Processing image: input_images\IMG_20241129_032201_366.png
+2025-03-01 21:31:45,271 - ERROR: Error during prediction for input_images\IMG_20241129_032201_366.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,272 - INFO: Progress: 14/117 images processed
+2025-03-01 21:31:45,272 - INFO: Processing image: input_images\IMG_20241129_032437_836.jpg
+2025-03-01 21:31:45,355 - ERROR: Error during prediction for input_images\IMG_20241129_032437_836.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,355 - INFO: Progress: 15/117 images processed
+2025-03-01 21:31:45,355 - INFO: Processing image: input_images\IMG_20241129_032437_883.jpg
+2025-03-01 21:31:45,408 - ERROR: Error during prediction for input_images\IMG_20241129_032437_883.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,408 - INFO: Progress: 16/117 images processed
+2025-03-01 21:31:45,408 - INFO: Processing image: input_images\IMG_20241129_032437_955.jpg
+2025-03-01 21:31:45,471 - ERROR: Error during prediction for input_images\IMG_20241129_032437_955.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,472 - INFO: Progress: 17/117 images processed
+2025-03-01 21:31:45,472 - INFO: Processing image: input_images\IMG_20241129_032438_088.jpg
+2025-03-01 21:31:45,536 - ERROR: Error during prediction for input_images\IMG_20241129_032438_088.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,537 - INFO: Progress: 18/117 images processed
+2025-03-01 21:31:45,537 - INFO: Processing image: input_images\IMG_20241129_032438_396.jpg
+2025-03-01 21:31:45,600 - ERROR: Error during prediction for input_images\IMG_20241129_032438_396.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,601 - INFO: Progress: 19/117 images processed
+2025-03-01 21:31:45,601 - INFO: Processing image: input_images\IMG_20241129_032438_422.jpg
+2025-03-01 21:31:45,669 - ERROR: Error during prediction for input_images\IMG_20241129_032438_422.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,670 - INFO: Progress: 20/117 images processed
+2025-03-01 21:31:45,670 - INFO: Processing image: input_images\IMG_20241129_032438_472.jpg
+2025-03-01 21:31:45,751 - ERROR: Error during prediction for input_images\IMG_20241129_032438_472.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,752 - INFO: Progress: 21/117 images processed
+2025-03-01 21:31:45,752 - INFO: Processing image: input_images\IMG_20241129_032438_519.jpg
+2025-03-01 21:31:45,811 - ERROR: Error during prediction for input_images\IMG_20241129_032438_519.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,812 - INFO: Progress: 22/117 images processed
+2025-03-01 21:31:45,812 - INFO: Processing image: input_images\IMG_20241129_032615_776.png
+2025-03-01 21:31:45,873 - ERROR: Error during prediction for input_images\IMG_20241129_032615_776.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,874 - INFO: Progress: 23/117 images processed
+2025-03-01 21:31:45,874 - INFO: Processing image: input_images\IMG_20241129_032620_688.png
+2025-03-01 21:31:45,942 - ERROR: Error during prediction for input_images\IMG_20241129_032620_688.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:45,942 - INFO: Progress: 24/117 images processed
+2025-03-01 21:31:45,942 - INFO: Processing image: input_images\IMG_20241129_032624_342.png
+2025-03-01 21:31:46,009 - ERROR: Error during prediction for input_images\IMG_20241129_032624_342.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,010 - INFO: Progress: 25/117 images processed
+2025-03-01 21:31:46,010 - INFO: Processing image: input_images\IMG_20241129_191236_139.png
+2025-03-01 21:31:46,074 - ERROR: Error during prediction for input_images\IMG_20241129_191236_139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,075 - INFO: Progress: 26/117 images processed
+2025-03-01 21:31:46,075 - INFO: Processing image: input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg
+2025-03-01 21:31:46,168 - ERROR: Error during prediction for input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,169 - INFO: Progress: 27/117 images processed
+2025-03-01 21:31:46,169 - INFO: Processing image: input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg
+2025-03-01 21:31:46,232 - ERROR: Error during prediction for input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,233 - INFO: Progress: 28/117 images processed
+2025-03-01 21:31:46,233 - INFO: Processing image: input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg
+2025-03-01 21:31:46,328 - ERROR: Error during prediction for input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,328 - INFO: Progress: 29/117 images processed
+2025-03-01 21:31:46,329 - INFO: Processing image: input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg
+2025-03-01 21:31:46,396 - ERROR: Error during prediction for input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,397 - INFO: Progress: 30/117 images processed
+2025-03-01 21:31:46,397 - INFO: Processing image: input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg
+2025-03-01 21:31:46,461 - ERROR: Error during prediction for input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,462 - INFO: Progress: 31/117 images processed
+2025-03-01 21:31:46,462 - INFO: Processing image: input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg
+2025-03-01 21:31:46,524 - ERROR: Error during prediction for input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,524 - INFO: Progress: 32/117 images processed
+2025-03-01 21:31:46,525 - INFO: Processing image: input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg
+2025-03-01 21:31:46,589 - ERROR: Error during prediction for input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,590 - INFO: Progress: 33/117 images processed
+2025-03-01 21:31:46,590 - INFO: Processing image: input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg
+2025-03-01 21:31:46,660 - ERROR: Error during prediction for input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,660 - INFO: Progress: 34/117 images processed
+2025-03-01 21:31:46,660 - INFO: Processing image: input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg
+2025-03-01 21:31:46,749 - ERROR: Error during prediction for input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,750 - INFO: Progress: 35/117 images processed
+2025-03-01 21:31:46,750 - INFO: Processing image: input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg
+2025-03-01 21:31:46,837 - ERROR: Error during prediction for input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,837 - INFO: Progress: 36/117 images processed
+2025-03-01 21:31:46,838 - INFO: Processing image: input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg
+2025-03-01 21:31:46,904 - ERROR: Error during prediction for input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,904 - INFO: Progress: 37/117 images processed
+2025-03-01 21:31:46,905 - INFO: Processing image: input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg
+2025-03-01 21:31:46,972 - ERROR: Error during prediction for input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:46,973 - INFO: Progress: 38/117 images processed
+2025-03-01 21:31:46,973 - INFO: Processing image: input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg
+2025-03-01 21:31:47,036 - ERROR: Error during prediction for input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,036 - INFO: Progress: 39/117 images processed
+2025-03-01 21:31:47,037 - INFO: Processing image: input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg
+2025-03-01 21:31:47,126 - ERROR: Error during prediction for input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,127 - INFO: Progress: 40/117 images processed
+2025-03-01 21:31:47,127 - INFO: Processing image: input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg
+2025-03-01 21:31:47,195 - ERROR: Error during prediction for input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,196 - INFO: Progress: 41/117 images processed
+2025-03-01 21:31:47,196 - INFO: Processing image: input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg
+2025-03-01 21:31:47,270 - ERROR: Error during prediction for input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,271 - INFO: Progress: 42/117 images processed
+2025-03-01 21:31:47,271 - INFO: Processing image: input_images\Screenshot 2024-11-29 000139.png
+2025-03-01 21:31:47,337 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 000139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,337 - INFO: Progress: 43/117 images processed
+2025-03-01 21:31:47,337 - INFO: Processing image: input_images\Screenshot 2024-11-29 011520.png
+2025-03-01 21:31:47,386 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011520.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,387 - INFO: Progress: 44/117 images processed
+2025-03-01 21:31:47,387 - INFO: Processing image: input_images\Screenshot 2024-11-29 011532.png
+2025-03-01 21:31:47,437 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011532.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,437 - INFO: Progress: 45/117 images processed
+2025-03-01 21:31:47,437 - INFO: Processing image: input_images\Screenshot 2024-11-29 011638.png
+2025-03-01 21:31:47,489 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011638.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,489 - INFO: Progress: 46/117 images processed
+2025-03-01 21:31:47,489 - INFO: Processing image: input_images\Screenshot 2024-11-29 011745.png
+2025-03-01 21:31:47,552 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011745.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,552 - INFO: Progress: 47/117 images processed
+2025-03-01 21:31:47,553 - INFO: Processing image: input_images\Screenshot 2024-11-29 012641.png
+2025-03-01 21:31:47,615 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012641.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,616 - INFO: Progress: 48/117 images processed
+2025-03-01 21:31:47,616 - INFO: Processing image: input_images\Screenshot 2024-11-29 012648.png
+2025-03-01 21:31:47,683 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012648.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,684 - INFO: Progress: 49/117 images processed
+2025-03-01 21:31:47,684 - INFO: Processing image: input_images\Screenshot 2024-11-29 012658.png
+2025-03-01 21:31:47,750 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012658.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,750 - INFO: Progress: 50/117 images processed
+2025-03-01 21:31:47,751 - INFO: Processing image: input_images\Screenshot 2024-11-29 012806.png
+2025-03-01 21:31:47,827 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012806.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,828 - INFO: Progress: 51/117 images processed
+2025-03-01 21:31:47,828 - INFO: Processing image: input_images\Screenshot 2024-11-29 021226.png
+2025-03-01 21:31:47,902 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 021226.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,902 - INFO: Progress: 52/117 images processed
+2025-03-01 21:31:47,903 - INFO: Processing image: input_images\Screenshot 2024-11-29 091332.png
+2025-03-01 21:31:47,966 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091332.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:47,967 - INFO: Progress: 53/117 images processed
+2025-03-01 21:31:47,967 - INFO: Processing image: input_images\Screenshot 2024-11-29 091456.png
+2025-03-01 21:31:48,032 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091456.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,032 - INFO: Progress: 54/117 images processed
+2025-03-01 21:31:48,032 - INFO: Processing image: input_images\Screenshot 2024-11-29 092934.png
+2025-03-01 21:31:48,081 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 092934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,082 - INFO: Progress: 55/117 images processed
+2025-03-01 21:31:48,082 - INFO: Processing image: input_images\Screenshot 2024-11-29 093109.png
+2025-03-01 21:31:48,143 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 093109.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,144 - INFO: Progress: 56/117 images processed
+2025-03-01 21:31:48,144 - INFO: Processing image: input_images\Screenshot 2024-11-29 132752.png
+2025-03-01 21:31:48,213 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 132752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,213 - INFO: Progress: 57/117 images processed
+2025-03-01 21:31:48,213 - INFO: Processing image: input_images\Screenshot 2024-11-29 133010.png
+2025-03-01 21:31:48,276 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133010.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,277 - INFO: Progress: 58/117 images processed
+2025-03-01 21:31:48,277 - INFO: Processing image: input_images\Screenshot 2024-11-29 133235.png
+2025-03-01 21:31:48,345 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133235.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,346 - INFO: Progress: 59/117 images processed
+2025-03-01 21:31:48,346 - INFO: Processing image: input_images\Screenshot 2024-11-29 135410.png
+2025-03-01 21:31:48,412 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135410.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,413 - INFO: Progress: 60/117 images processed
+2025-03-01 21:31:48,413 - INFO: Processing image: input_images\Screenshot 2024-11-29 135921.png
+2025-03-01 21:31:48,476 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135921.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,476 - INFO: Progress: 61/117 images processed
+2025-03-01 21:31:48,476 - INFO: Processing image: input_images\Screenshot 2024-11-29 140007.png
+2025-03-01 21:31:48,528 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140007.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,528 - INFO: Progress: 62/117 images processed
+2025-03-01 21:31:48,528 - INFO: Processing image: input_images\Screenshot 2024-11-29 140217.png
+2025-03-01 21:31:48,592 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140217.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,593 - INFO: Progress: 63/117 images processed
+2025-03-01 21:31:48,593 - INFO: Processing image: input_images\Screenshot 2024-11-29 140340.png
+2025-03-01 21:31:48,664 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140340.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,665 - INFO: Progress: 64/117 images processed
+2025-03-01 21:31:48,665 - INFO: Processing image: input_images\Screenshot 2024-11-29 140407.png
+2025-03-01 21:31:48,730 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140407.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,730 - INFO: Progress: 65/117 images processed
+2025-03-01 21:31:48,730 - INFO: Processing image: input_images\Screenshot 2024-11-29 140442.png
+2025-03-01 21:31:48,794 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140442.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,795 - INFO: Progress: 66/117 images processed
+2025-03-01 21:31:48,795 - INFO: Processing image: input_images\Screenshot 2024-11-29 140729.png
+2025-03-01 21:31:48,862 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140729.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,862 - INFO: Progress: 67/117 images processed
+2025-03-01 21:31:48,863 - INFO: Processing image: input_images\Screenshot 2024-11-29 140848.png
+2025-03-01 21:31:48,926 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140848.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:48,927 - INFO: Progress: 68/117 images processed
+2025-03-01 21:31:48,927 - INFO: Processing image: input_images\Screenshot 2024-11-29 141354.png
+2025-03-01 21:31:49,000 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141354.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,000 - INFO: Progress: 69/117 images processed
+2025-03-01 21:31:49,001 - INFO: Processing image: input_images\Screenshot 2024-11-29 141542.png
+2025-03-01 21:31:49,063 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141542.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,064 - INFO: Progress: 70/117 images processed
+2025-03-01 21:31:49,064 - INFO: Processing image: input_images\Screenshot 2024-11-29 141844.png
+2025-03-01 21:31:49,127 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141844.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,128 - INFO: Progress: 71/117 images processed
+2025-03-01 21:31:49,128 - INFO: Processing image: input_images\Screenshot 2024-11-29 142108.png
+2025-03-01 21:31:49,191 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142108.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,192 - INFO: Progress: 72/117 images processed
+2025-03-01 21:31:49,192 - INFO: Processing image: input_images\Screenshot 2024-11-29 142251.png
+2025-03-01 21:31:49,257 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142251.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,257 - INFO: Progress: 73/117 images processed
+2025-03-01 21:31:49,257 - INFO: Processing image: input_images\Screenshot 2024-11-29 142333.png
+2025-03-01 21:31:49,323 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142333.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,324 - INFO: Progress: 74/117 images processed
+2025-03-01 21:31:49,324 - INFO: Processing image: input_images\Screenshot 2024-11-29 142546.png
+2025-03-01 21:31:49,394 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142546.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,394 - INFO: Progress: 75/117 images processed
+2025-03-01 21:31:49,394 - INFO: Processing image: input_images\Screenshot 2024-11-29 142622.png
+2025-03-01 21:31:49,461 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142622.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,461 - INFO: Progress: 76/117 images processed
+2025-03-01 21:31:49,461 - INFO: Processing image: input_images\Screenshot 2024-11-29 142742.png
+2025-03-01 21:31:49,525 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142742.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,525 - INFO: Progress: 77/117 images processed
+2025-03-01 21:31:49,525 - INFO: Processing image: input_images\Screenshot 2024-11-29 145754.png
+2025-03-01 21:31:49,588 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145754.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,588 - INFO: Progress: 78/117 images processed
+2025-03-01 21:31:49,588 - INFO: Processing image: input_images\Screenshot 2024-11-29 145832.png
+2025-03-01 21:31:49,662 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145832.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,663 - INFO: Progress: 79/117 images processed
+2025-03-01 21:31:49,663 - INFO: Processing image: input_images\Screenshot 2024-11-29 145956.png
+2025-03-01 21:31:49,726 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145956.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,727 - INFO: Progress: 80/117 images processed
+2025-03-01 21:31:49,727 - INFO: Processing image: input_images\Screenshot 2024-11-29 150023.png
+2025-03-01 21:31:49,792 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 150023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,793 - INFO: Progress: 81/117 images processed
+2025-03-01 21:31:49,793 - INFO: Processing image: input_images\Screenshot 2024-11-29 153449.png
+2025-03-01 21:31:49,859 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153449.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,860 - INFO: Progress: 82/117 images processed
+2025-03-01 21:31:49,860 - INFO: Processing image: input_images\Screenshot 2024-11-29 153827.png
+2025-03-01 21:31:49,925 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153827.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,926 - INFO: Progress: 83/117 images processed
+2025-03-01 21:31:49,926 - INFO: Processing image: input_images\Screenshot 2024-11-29 154023.png
+2025-03-01 21:31:49,993 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:49,993 - INFO: Progress: 84/117 images processed
+2025-03-01 21:31:49,994 - INFO: Processing image: input_images\Screenshot 2024-11-29 154322.png
+2025-03-01 21:31:50,057 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154322.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,058 - INFO: Progress: 85/117 images processed
+2025-03-01 21:31:50,058 - INFO: Processing image: input_images\Screenshot 2024-11-29 154752.png
+2025-03-01 21:31:50,124 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,124 - INFO: Progress: 86/117 images processed
+2025-03-01 21:31:50,124 - INFO: Processing image: input_images\Screenshot 2024-11-29 154934.png
+2025-03-01 21:31:50,187 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,188 - INFO: Progress: 87/117 images processed
+2025-03-01 21:31:50,188 - INFO: Processing image: input_images\Screenshot 2024-11-29 155024.png
+2025-03-01 21:31:50,252 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155024.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,253 - INFO: Progress: 88/117 images processed
+2025-03-01 21:31:50,253 - INFO: Processing image: input_images\Screenshot 2024-11-29 155114.png
+2025-03-01 21:31:50,317 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155114.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,318 - INFO: Progress: 89/117 images processed
+2025-03-01 21:31:50,318 - INFO: Processing image: input_images\Screenshot 2024-11-29 155141.png
+2025-03-01 21:31:50,382 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155141.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,383 - INFO: Progress: 90/117 images processed
+2025-03-01 21:31:50,383 - INFO: Processing image: input_images\Screenshot 2024-11-29 155228.png
+2025-03-01 21:31:50,449 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155228.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,449 - INFO: Progress: 91/117 images processed
+2025-03-01 21:31:50,449 - INFO: Processing image: input_images\Screenshot 2024-11-29 155250.png
+2025-03-01 21:31:50,509 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155250.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,510 - INFO: Progress: 92/117 images processed
+2025-03-01 21:31:50,510 - INFO: Processing image: input_images\Screenshot 2024-11-29 155335.png
+2025-03-01 21:31:50,572 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155335.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,573 - INFO: Progress: 93/117 images processed
+2025-03-01 21:31:50,573 - INFO: Processing image: input_images\Screenshot 2024-11-29 155433.png
+2025-03-01 21:31:50,638 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155433.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,638 - INFO: Progress: 94/117 images processed
+2025-03-01 21:31:50,639 - INFO: Processing image: input_images\Screenshot 2024-11-29 191133.png
+2025-03-01 21:31:50,708 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191133.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,709 - INFO: Progress: 95/117 images processed
+2025-03-01 21:31:50,709 - INFO: Processing image: input_images\Screenshot 2024-11-29 191145.png
+2025-03-01 21:31:50,775 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191145.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,775 - INFO: Progress: 96/117 images processed
+2025-03-01 21:31:50,775 - INFO: Processing image: input_images\Screenshot 2025-03-01 200503.png
+2025-03-01 21:31:50,835 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200503.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,836 - INFO: Progress: 97/117 images processed
+2025-03-01 21:31:50,836 - INFO: Processing image: input_images\Screenshot 2025-03-01 200515.png
+2025-03-01 21:31:50,899 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200515.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,900 - INFO: Progress: 98/117 images processed
+2025-03-01 21:31:50,900 - INFO: Processing image: input_images\Screenshot 2025-03-01 200526.png
+2025-03-01 21:31:50,973 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200526.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:50,973 - INFO: Progress: 99/117 images processed
+2025-03-01 21:31:50,974 - INFO: Processing image: input_images\Screenshot 2025-03-01 200539.png
+2025-03-01 21:31:51,038 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200539.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,039 - INFO: Progress: 100/117 images processed
+2025-03-01 21:31:51,039 - INFO: Processing image: input_images\Screenshot 2025-03-01 200549.png
+2025-03-01 21:31:51,105 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200549.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,106 - INFO: Progress: 101/117 images processed
+2025-03-01 21:31:51,106 - INFO: Processing image: input_images\Screenshot 2025-03-01 200604.png
+2025-03-01 21:31:51,167 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200604.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,168 - INFO: Progress: 102/117 images processed
+2025-03-01 21:31:51,168 - INFO: Processing image: input_images\Screenshot 2025-03-01 200615.png
+2025-03-01 21:31:51,230 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200615.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,231 - INFO: Progress: 103/117 images processed
+2025-03-01 21:31:51,231 - INFO: Processing image: input_images\Screenshot 2025-03-01 200625.png
+2025-03-01 21:31:51,292 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200625.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,293 - INFO: Progress: 104/117 images processed
+2025-03-01 21:31:51,293 - INFO: Processing image: input_images\Screenshot 2025-03-01 200635.png
+2025-03-01 21:31:51,356 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200635.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,356 - INFO: Progress: 105/117 images processed
+2025-03-01 21:31:51,356 - INFO: Processing image: input_images\Screenshot 2025-03-01 200644.png
+2025-03-01 21:31:51,423 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200644.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,424 - INFO: Progress: 106/117 images processed
+2025-03-01 21:31:51,424 - INFO: Processing image: input_images\Screenshot 2025-03-01 200705.png
+2025-03-01 21:31:51,489 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200705.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,489 - INFO: Progress: 107/117 images processed
+2025-03-01 21:31:51,489 - INFO: Processing image: input_images\Screenshot 2025-03-01 200714.png
+2025-03-01 21:31:51,557 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200714.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,557 - INFO: Progress: 108/117 images processed
+2025-03-01 21:31:51,558 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg
+2025-03-01 21:31:51,661 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,662 - INFO: Progress: 109/117 images processed
+2025-03-01 21:31:51,662 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg
+2025-03-01 21:31:51,776 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,777 - INFO: Progress: 110/117 images processed
+2025-03-01 21:31:51,777 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg
+2025-03-01 21:31:51,882 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,882 - INFO: Progress: 111/117 images processed
+2025-03-01 21:31:51,883 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg
+2025-03-01 21:31:51,988 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:51,989 - INFO: Progress: 112/117 images processed
+2025-03-01 21:31:51,989 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg
+2025-03-01 21:31:52,099 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:52,099 - INFO: Progress: 113/117 images processed
+2025-03-01 21:31:52,100 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg
+2025-03-01 21:31:52,203 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:52,203 - INFO: Progress: 114/117 images processed
+2025-03-01 21:31:52,204 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg
+2025-03-01 21:31:52,310 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:52,310 - INFO: Progress: 115/117 images processed
+2025-03-01 21:31:52,311 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg
+2025-03-01 21:31:52,414 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:52,415 - INFO: Progress: 116/117 images processed
+2025-03-01 21:31:52,415 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg
+2025-03-01 21:31:52,520 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:31:52,521 - INFO: Progress: 117/117 images processed
+2025-03-01 21:31:52,521 - INFO: 
+--- Processing Summary ---
+2025-03-01 21:31:52,521 - INFO: Total images: 117
+2025-03-01 21:31:52,521 - INFO: Successfully processed: 117
+2025-03-01 21:31:52,521 - INFO: Skipped images: 0
+2025-03-01 21:31:52,522 - INFO: Errors encountered: 0
+2025-03-01 21:32:23,614 - INFO: === Logging in ===
+2025-03-01 21:32:23,926 - INFO: Login successful!
+2025-03-01 21:32:23,930 - WARNING: Custom font not found, using default.
+2025-03-01 21:32:23,930 - INFO: Found 117 image files to process.
+2025-03-01 21:32:23,931 - INFO: Processing image: input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg
+2025-03-01 21:32:24,060 - ERROR: Error during prediction for input_images\.trashed-1735409150-Screenshot_2024-11-29-00-58-44-407_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,060 - INFO: Progress: 1/117 images processed
+2025-03-01 21:32:24,060 - INFO: Processing image: input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg
+2025-03-01 21:32:24,160 - ERROR: Error during prediction for input_images\.trashed-1735409151-Screenshot_2024-11-29-00-58-38-914_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,160 - INFO: Progress: 2/117 images processed
+2025-03-01 21:32:24,160 - INFO: Processing image: input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg
+2025-03-01 21:32:24,263 - ERROR: Error during prediction for input_images\.trashed-1735409152-Screenshot_2024-11-29-00-58-24-593_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,264 - INFO: Progress: 3/117 images processed
+2025-03-01 21:32:24,264 - INFO: Processing image: input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg
+2025-03-01 21:32:24,373 - ERROR: Error during prediction for input_images\.trashed-1735409153-Screenshot_2024-11-29-00-58-18-647_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,373 - INFO: Progress: 4/117 images processed
+2025-03-01 21:32:24,374 - INFO: Processing image: input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg
+2025-03-01 21:32:24,425 - ERROR: Error during prediction for input_images\.trashed-1735473244-Messenger_creation_B93E31ED-0313-4495-9AB7-2F87EB7EE573.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,425 - INFO: Progress: 5/117 images processed
+2025-03-01 21:32:24,426 - INFO: Processing image: input_images\1732814959741.jpg
+2025-03-01 21:32:24,509 - ERROR: Error during prediction for input_images\1732814959741.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,510 - INFO: Progress: 6/117 images processed
+2025-03-01 21:32:24,510 - INFO: Processing image: input_images\1732814963205.jpg
+2025-03-01 21:32:24,595 - ERROR: Error during prediction for input_images\1732814963205.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,595 - INFO: Progress: 7/117 images processed
+2025-03-01 21:32:24,595 - INFO: Processing image: input_images\1732814965180.jpg
+2025-03-01 21:32:24,687 - ERROR: Error during prediction for input_images\1732814965180.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,687 - INFO: Progress: 8/117 images processed
+2025-03-01 21:32:24,688 - INFO: Processing image: input_images\1732814968214.jpg
+2025-03-01 21:32:24,749 - ERROR: Error during prediction for input_images\1732814968214.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,749 - INFO: Progress: 9/117 images processed
+2025-03-01 21:32:24,749 - INFO: Processing image: input_images\IMG_20241129_031733.jpg
+2025-03-01 21:32:24,799 - ERROR: Error during prediction for input_images\IMG_20241129_031733.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,800 - INFO: Progress: 10/117 images processed
+2025-03-01 21:32:24,800 - INFO: Processing image: input_images\IMG_20241129_031829.jpg
+2025-03-01 21:32:24,851 - ERROR: Error during prediction for input_images\IMG_20241129_031829.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,852 - INFO: Progress: 11/117 images processed
+2025-03-01 21:32:24,852 - INFO: Processing image: input_images\IMG_20241129_031856.jpg
+2025-03-01 21:32:24,901 - ERROR: Error during prediction for input_images\IMG_20241129_031856.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,902 - INFO: Progress: 12/117 images processed
+2025-03-01 21:32:24,902 - INFO: Processing image: input_images\IMG_20241129_032159_730.png
+2025-03-01 21:32:24,983 - ERROR: Error during prediction for input_images\IMG_20241129_032159_730.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:24,983 - INFO: Progress: 13/117 images processed
+2025-03-01 21:32:24,984 - INFO: Processing image: input_images\IMG_20241129_032201_366.png
+2025-03-01 21:32:25,048 - ERROR: Error during prediction for input_images\IMG_20241129_032201_366.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,049 - INFO: Progress: 14/117 images processed
+2025-03-01 21:32:25,049 - INFO: Processing image: input_images\IMG_20241129_032437_836.jpg
+2025-03-01 21:32:25,137 - ERROR: Error during prediction for input_images\IMG_20241129_032437_836.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,138 - INFO: Progress: 15/117 images processed
+2025-03-01 21:32:25,138 - INFO: Processing image: input_images\IMG_20241129_032437_883.jpg
+2025-03-01 21:32:25,189 - ERROR: Error during prediction for input_images\IMG_20241129_032437_883.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,189 - INFO: Progress: 16/117 images processed
+2025-03-01 21:32:25,190 - INFO: Processing image: input_images\IMG_20241129_032437_955.jpg
+2025-03-01 21:32:25,242 - ERROR: Error during prediction for input_images\IMG_20241129_032437_955.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,243 - INFO: Progress: 17/117 images processed
+2025-03-01 21:32:25,243 - INFO: Processing image: input_images\IMG_20241129_032438_088.jpg
+2025-03-01 21:32:25,308 - ERROR: Error during prediction for input_images\IMG_20241129_032438_088.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,309 - INFO: Progress: 18/117 images processed
+2025-03-01 21:32:25,309 - INFO: Processing image: input_images\IMG_20241129_032438_396.jpg
+2025-03-01 21:32:25,374 - ERROR: Error during prediction for input_images\IMG_20241129_032438_396.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,375 - INFO: Progress: 19/117 images processed
+2025-03-01 21:32:25,375 - INFO: Processing image: input_images\IMG_20241129_032438_422.jpg
+2025-03-01 21:32:25,442 - ERROR: Error during prediction for input_images\IMG_20241129_032438_422.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,443 - INFO: Progress: 20/117 images processed
+2025-03-01 21:32:25,443 - INFO: Processing image: input_images\IMG_20241129_032438_472.jpg
+2025-03-01 21:32:25,526 - ERROR: Error during prediction for input_images\IMG_20241129_032438_472.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,526 - INFO: Progress: 21/117 images processed
+2025-03-01 21:32:25,526 - INFO: Processing image: input_images\IMG_20241129_032438_519.jpg
+2025-03-01 21:32:25,589 - ERROR: Error during prediction for input_images\IMG_20241129_032438_519.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,590 - INFO: Progress: 22/117 images processed
+2025-03-01 21:32:25,590 - INFO: Processing image: input_images\IMG_20241129_032615_776.png
+2025-03-01 21:32:25,652 - ERROR: Error during prediction for input_images\IMG_20241129_032615_776.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,652 - INFO: Progress: 23/117 images processed
+2025-03-01 21:32:25,653 - INFO: Processing image: input_images\IMG_20241129_032620_688.png
+2025-03-01 21:32:25,716 - ERROR: Error during prediction for input_images\IMG_20241129_032620_688.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,717 - INFO: Progress: 24/117 images processed
+2025-03-01 21:32:25,717 - INFO: Processing image: input_images\IMG_20241129_032624_342.png
+2025-03-01 21:32:25,781 - ERROR: Error during prediction for input_images\IMG_20241129_032624_342.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,782 - INFO: Progress: 25/117 images processed
+2025-03-01 21:32:25,782 - INFO: Processing image: input_images\IMG_20241129_191236_139.png
+2025-03-01 21:32:25,845 - ERROR: Error during prediction for input_images\IMG_20241129_191236_139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,846 - INFO: Progress: 26/117 images processed
+2025-03-01 21:32:25,846 - INFO: Processing image: input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg
+2025-03-01 21:32:25,935 - ERROR: Error during prediction for input_images\Messenger_creation_052DBD17-3BC4-400F-B039-A248BBF6008E.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:25,936 - INFO: Progress: 27/117 images processed
+2025-03-01 21:32:25,936 - INFO: Processing image: input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg
+2025-03-01 21:32:26,002 - ERROR: Error during prediction for input_images\Messenger_creation_1E271773-0F59-47CD-B662-5E68A41661E1.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,002 - INFO: Progress: 28/117 images processed
+2025-03-01 21:32:26,002 - INFO: Processing image: input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg
+2025-03-01 21:32:26,094 - ERROR: Error during prediction for input_images\Messenger_creation_2573B82F-29DC-4EB6-BFE4-32E7DA7933EE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,094 - INFO: Progress: 29/117 images processed
+2025-03-01 21:32:26,095 - INFO: Processing image: input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg
+2025-03-01 21:32:26,159 - ERROR: Error during prediction for input_images\Messenger_creation_44480036-F892-4B93-80E1-F9C9A519A4A8.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,160 - INFO: Progress: 30/117 images processed
+2025-03-01 21:32:26,160 - INFO: Processing image: input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg
+2025-03-01 21:32:26,227 - ERROR: Error during prediction for input_images\Messenger_creation_48CD7C52-E723-4C3F-820C-73490EA8F751.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,228 - INFO: Progress: 31/117 images processed
+2025-03-01 21:32:26,228 - INFO: Processing image: input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg
+2025-03-01 21:32:26,295 - ERROR: Error during prediction for input_images\Messenger_creation_738983EB-1169-4843-8443-D031C382A66F.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,296 - INFO: Progress: 32/117 images processed
+2025-03-01 21:32:26,296 - INFO: Processing image: input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg
+2025-03-01 21:32:26,359 - ERROR: Error during prediction for input_images\Messenger_creation_8A441DC7-08C1-4B1B-A2AD-F6F6A5A398B0.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,359 - INFO: Progress: 33/117 images processed
+2025-03-01 21:32:26,359 - INFO: Processing image: input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg
+2025-03-01 21:32:26,427 - ERROR: Error during prediction for input_images\Messenger_creation_94580F1D-C0AB-407C-8C0D-86AB2DDA4FD7.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,428 - INFO: Progress: 34/117 images processed
+2025-03-01 21:32:26,428 - INFO: Processing image: input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg
+2025-03-01 21:32:26,529 - ERROR: Error during prediction for input_images\Messenger_creation_A21C9AE8-05E5-4427-B1FC-26ADC52F4D9B.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,530 - INFO: Progress: 35/117 images processed
+2025-03-01 21:32:26,530 - INFO: Processing image: input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg
+2025-03-01 21:32:26,619 - ERROR: Error during prediction for input_images\Messenger_creation_A94319C8-F5AC-4F83-B6BE-83CE5E148EFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,620 - INFO: Progress: 36/117 images processed
+2025-03-01 21:32:26,620 - INFO: Processing image: input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg
+2025-03-01 21:32:26,683 - ERROR: Error during prediction for input_images\Messenger_creation_B56E4440-436F-40B8-B9CC-50EB3D2468AF.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,683 - INFO: Progress: 37/117 images processed
+2025-03-01 21:32:26,683 - INFO: Processing image: input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg
+2025-03-01 21:32:26,753 - ERROR: Error during prediction for input_images\Messenger_creation_C7B18618-6128-4BB2-966C-51B57D6CC6B5.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,754 - INFO: Progress: 38/117 images processed
+2025-03-01 21:32:26,754 - INFO: Processing image: input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg
+2025-03-01 21:32:26,815 - ERROR: Error during prediction for input_images\Messenger_creation_CFD5CAD7-4667-4F7A-A845-94E2546E9DD4.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,816 - INFO: Progress: 39/117 images processed
+2025-03-01 21:32:26,816 - INFO: Processing image: input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg
+2025-03-01 21:32:26,914 - ERROR: Error during prediction for input_images\Messenger_creation_D509489B-BB30-450C-B434-D53869381383.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,914 - INFO: Progress: 40/117 images processed
+2025-03-01 21:32:26,914 - INFO: Processing image: input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg
+2025-03-01 21:32:26,986 - ERROR: Error during prediction for input_images\Messenger_creation_EC43FB26-05F9-43FF-A5B2-590D64C36BAE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:26,987 - INFO: Progress: 41/117 images processed
+2025-03-01 21:32:26,987 - INFO: Processing image: input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg
+2025-03-01 21:32:27,055 - ERROR: Error during prediction for input_images\Messenger_creation_EFC266A6-3860-4ED5-AA12-0D7530816AFE.jpeg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,056 - INFO: Progress: 42/117 images processed
+2025-03-01 21:32:27,056 - INFO: Processing image: input_images\Screenshot 2024-11-29 000139.png
+2025-03-01 21:32:27,121 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 000139.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,121 - INFO: Progress: 43/117 images processed
+2025-03-01 21:32:27,121 - INFO: Processing image: input_images\Screenshot 2024-11-29 011520.png
+2025-03-01 21:32:27,172 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011520.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,173 - INFO: Progress: 44/117 images processed
+2025-03-01 21:32:27,173 - INFO: Processing image: input_images\Screenshot 2024-11-29 011532.png
+2025-03-01 21:32:27,221 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011532.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,222 - INFO: Progress: 45/117 images processed
+2025-03-01 21:32:27,222 - INFO: Processing image: input_images\Screenshot 2024-11-29 011638.png
+2025-03-01 21:32:27,276 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011638.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,276 - INFO: Progress: 46/117 images processed
+2025-03-01 21:32:27,276 - INFO: Processing image: input_images\Screenshot 2024-11-29 011745.png
+2025-03-01 21:32:27,339 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 011745.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,339 - INFO: Progress: 47/117 images processed
+2025-03-01 21:32:27,340 - INFO: Processing image: input_images\Screenshot 2024-11-29 012641.png
+2025-03-01 21:32:27,415 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012641.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,415 - INFO: Progress: 48/117 images processed
+2025-03-01 21:32:27,415 - INFO: Processing image: input_images\Screenshot 2024-11-29 012648.png
+2025-03-01 21:32:27,481 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012648.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,481 - INFO: Progress: 49/117 images processed
+2025-03-01 21:32:27,482 - INFO: Processing image: input_images\Screenshot 2024-11-29 012658.png
+2025-03-01 21:32:27,546 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012658.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,547 - INFO: Progress: 50/117 images processed
+2025-03-01 21:32:27,547 - INFO: Processing image: input_images\Screenshot 2024-11-29 012806.png
+2025-03-01 21:32:27,624 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 012806.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,624 - INFO: Progress: 51/117 images processed
+2025-03-01 21:32:27,625 - INFO: Processing image: input_images\Screenshot 2024-11-29 021226.png
+2025-03-01 21:32:27,689 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 021226.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,690 - INFO: Progress: 52/117 images processed
+2025-03-01 21:32:27,690 - INFO: Processing image: input_images\Screenshot 2024-11-29 091332.png
+2025-03-01 21:32:27,753 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091332.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,754 - INFO: Progress: 53/117 images processed
+2025-03-01 21:32:27,754 - INFO: Processing image: input_images\Screenshot 2024-11-29 091456.png
+2025-03-01 21:32:27,819 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 091456.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,819 - INFO: Progress: 54/117 images processed
+2025-03-01 21:32:27,820 - INFO: Processing image: input_images\Screenshot 2024-11-29 092934.png
+2025-03-01 21:32:27,878 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 092934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,879 - INFO: Progress: 55/117 images processed
+2025-03-01 21:32:27,879 - INFO: Processing image: input_images\Screenshot 2024-11-29 093109.png
+2025-03-01 21:32:27,942 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 093109.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:27,942 - INFO: Progress: 56/117 images processed
+2025-03-01 21:32:27,943 - INFO: Processing image: input_images\Screenshot 2024-11-29 132752.png
+2025-03-01 21:32:28,006 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 132752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,006 - INFO: Progress: 57/117 images processed
+2025-03-01 21:32:28,007 - INFO: Processing image: input_images\Screenshot 2024-11-29 133010.png
+2025-03-01 21:32:28,068 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133010.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,069 - INFO: Progress: 58/117 images processed
+2025-03-01 21:32:28,069 - INFO: Processing image: input_images\Screenshot 2024-11-29 133235.png
+2025-03-01 21:32:28,130 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 133235.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,131 - INFO: Progress: 59/117 images processed
+2025-03-01 21:32:28,131 - INFO: Processing image: input_images\Screenshot 2024-11-29 135410.png
+2025-03-01 21:32:28,195 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135410.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,195 - INFO: Progress: 60/117 images processed
+2025-03-01 21:32:28,196 - INFO: Processing image: input_images\Screenshot 2024-11-29 135921.png
+2025-03-01 21:32:28,258 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 135921.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,259 - INFO: Progress: 61/117 images processed
+2025-03-01 21:32:28,259 - INFO: Processing image: input_images\Screenshot 2024-11-29 140007.png
+2025-03-01 21:32:28,324 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140007.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,325 - INFO: Progress: 62/117 images processed
+2025-03-01 21:32:28,325 - INFO: Processing image: input_images\Screenshot 2024-11-29 140217.png
+2025-03-01 21:32:28,389 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140217.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,389 - INFO: Progress: 63/117 images processed
+2025-03-01 21:32:28,389 - INFO: Processing image: input_images\Screenshot 2024-11-29 140340.png
+2025-03-01 21:32:28,456 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140340.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,457 - INFO: Progress: 64/117 images processed
+2025-03-01 21:32:28,457 - INFO: Processing image: input_images\Screenshot 2024-11-29 140407.png
+2025-03-01 21:32:28,524 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140407.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,525 - INFO: Progress: 65/117 images processed
+2025-03-01 21:32:28,525 - INFO: Processing image: input_images\Screenshot 2024-11-29 140442.png
+2025-03-01 21:32:28,589 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140442.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,589 - INFO: Progress: 66/117 images processed
+2025-03-01 21:32:28,589 - INFO: Processing image: input_images\Screenshot 2024-11-29 140729.png
+2025-03-01 21:32:28,654 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140729.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,655 - INFO: Progress: 67/117 images processed
+2025-03-01 21:32:28,655 - INFO: Processing image: input_images\Screenshot 2024-11-29 140848.png
+2025-03-01 21:32:28,723 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 140848.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,724 - INFO: Progress: 68/117 images processed
+2025-03-01 21:32:28,724 - INFO: Processing image: input_images\Screenshot 2024-11-29 141354.png
+2025-03-01 21:32:28,792 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141354.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,793 - INFO: Progress: 69/117 images processed
+2025-03-01 21:32:28,793 - INFO: Processing image: input_images\Screenshot 2024-11-29 141542.png
+2025-03-01 21:32:28,857 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141542.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,857 - INFO: Progress: 70/117 images processed
+2025-03-01 21:32:28,858 - INFO: Processing image: input_images\Screenshot 2024-11-29 141844.png
+2025-03-01 21:32:28,919 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 141844.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,920 - INFO: Progress: 71/117 images processed
+2025-03-01 21:32:28,920 - INFO: Processing image: input_images\Screenshot 2024-11-29 142108.png
+2025-03-01 21:32:28,986 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142108.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:28,986 - INFO: Progress: 72/117 images processed
+2025-03-01 21:32:28,986 - INFO: Processing image: input_images\Screenshot 2024-11-29 142251.png
+2025-03-01 21:32:29,049 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142251.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,049 - INFO: Progress: 73/117 images processed
+2025-03-01 21:32:29,049 - INFO: Processing image: input_images\Screenshot 2024-11-29 142333.png
+2025-03-01 21:32:29,120 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142333.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,121 - INFO: Progress: 74/117 images processed
+2025-03-01 21:32:29,121 - INFO: Processing image: input_images\Screenshot 2024-11-29 142546.png
+2025-03-01 21:32:29,188 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142546.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,188 - INFO: Progress: 75/117 images processed
+2025-03-01 21:32:29,189 - INFO: Processing image: input_images\Screenshot 2024-11-29 142622.png
+2025-03-01 21:32:29,255 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142622.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,255 - INFO: Progress: 76/117 images processed
+2025-03-01 21:32:29,256 - INFO: Processing image: input_images\Screenshot 2024-11-29 142742.png
+2025-03-01 21:32:29,319 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 142742.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,320 - INFO: Progress: 77/117 images processed
+2025-03-01 21:32:29,320 - INFO: Processing image: input_images\Screenshot 2024-11-29 145754.png
+2025-03-01 21:32:29,385 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145754.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,386 - INFO: Progress: 78/117 images processed
+2025-03-01 21:32:29,386 - INFO: Processing image: input_images\Screenshot 2024-11-29 145832.png
+2025-03-01 21:32:29,451 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145832.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,452 - INFO: Progress: 79/117 images processed
+2025-03-01 21:32:29,452 - INFO: Processing image: input_images\Screenshot 2024-11-29 145956.png
+2025-03-01 21:32:29,515 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 145956.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,516 - INFO: Progress: 80/117 images processed
+2025-03-01 21:32:29,516 - INFO: Processing image: input_images\Screenshot 2024-11-29 150023.png
+2025-03-01 21:32:29,581 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 150023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,581 - INFO: Progress: 81/117 images processed
+2025-03-01 21:32:29,581 - INFO: Processing image: input_images\Screenshot 2024-11-29 153449.png
+2025-03-01 21:32:29,643 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153449.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,644 - INFO: Progress: 82/117 images processed
+2025-03-01 21:32:29,644 - INFO: Processing image: input_images\Screenshot 2024-11-29 153827.png
+2025-03-01 21:32:29,710 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 153827.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,711 - INFO: Progress: 83/117 images processed
+2025-03-01 21:32:29,711 - INFO: Processing image: input_images\Screenshot 2024-11-29 154023.png
+2025-03-01 21:32:29,773 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154023.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,774 - INFO: Progress: 84/117 images processed
+2025-03-01 21:32:29,774 - INFO: Processing image: input_images\Screenshot 2024-11-29 154322.png
+2025-03-01 21:32:29,837 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154322.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,838 - INFO: Progress: 85/117 images processed
+2025-03-01 21:32:29,838 - INFO: Processing image: input_images\Screenshot 2024-11-29 154752.png
+2025-03-01 21:32:29,900 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154752.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,901 - INFO: Progress: 86/117 images processed
+2025-03-01 21:32:29,901 - INFO: Processing image: input_images\Screenshot 2024-11-29 154934.png
+2025-03-01 21:32:29,965 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 154934.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:29,966 - INFO: Progress: 87/117 images processed
+2025-03-01 21:32:29,966 - INFO: Processing image: input_images\Screenshot 2024-11-29 155024.png
+2025-03-01 21:32:30,026 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155024.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,027 - INFO: Progress: 88/117 images processed
+2025-03-01 21:32:30,027 - INFO: Processing image: input_images\Screenshot 2024-11-29 155114.png
+2025-03-01 21:32:30,087 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155114.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,087 - INFO: Progress: 89/117 images processed
+2025-03-01 21:32:30,088 - INFO: Processing image: input_images\Screenshot 2024-11-29 155141.png
+2025-03-01 21:32:30,150 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155141.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,151 - INFO: Progress: 90/117 images processed
+2025-03-01 21:32:30,151 - INFO: Processing image: input_images\Screenshot 2024-11-29 155228.png
+2025-03-01 21:32:30,215 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155228.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,216 - INFO: Progress: 91/117 images processed
+2025-03-01 21:32:30,216 - INFO: Processing image: input_images\Screenshot 2024-11-29 155250.png
+2025-03-01 21:32:30,278 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155250.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,279 - INFO: Progress: 92/117 images processed
+2025-03-01 21:32:30,279 - INFO: Processing image: input_images\Screenshot 2024-11-29 155335.png
+2025-03-01 21:32:30,343 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155335.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,344 - INFO: Progress: 93/117 images processed
+2025-03-01 21:32:30,344 - INFO: Processing image: input_images\Screenshot 2024-11-29 155433.png
+2025-03-01 21:32:30,407 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 155433.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,407 - INFO: Progress: 94/117 images processed
+2025-03-01 21:32:30,407 - INFO: Processing image: input_images\Screenshot 2024-11-29 191133.png
+2025-03-01 21:32:30,473 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191133.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,473 - INFO: Progress: 95/117 images processed
+2025-03-01 21:32:30,473 - INFO: Processing image: input_images\Screenshot 2024-11-29 191145.png
+2025-03-01 21:32:30,542 - ERROR: Error during prediction for input_images\Screenshot 2024-11-29 191145.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,542 - INFO: Progress: 96/117 images processed
+2025-03-01 21:32:30,542 - INFO: Processing image: input_images\Screenshot 2025-03-01 200503.png
+2025-03-01 21:32:30,616 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200503.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,617 - INFO: Progress: 97/117 images processed
+2025-03-01 21:32:30,617 - INFO: Processing image: input_images\Screenshot 2025-03-01 200515.png
+2025-03-01 21:32:30,679 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200515.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,679 - INFO: Progress: 98/117 images processed
+2025-03-01 21:32:30,680 - INFO: Processing image: input_images\Screenshot 2025-03-01 200526.png
+2025-03-01 21:32:30,743 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200526.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,744 - INFO: Progress: 99/117 images processed
+2025-03-01 21:32:30,744 - INFO: Processing image: input_images\Screenshot 2025-03-01 200539.png
+2025-03-01 21:32:30,811 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200539.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,811 - INFO: Progress: 100/117 images processed
+2025-03-01 21:32:30,811 - INFO: Processing image: input_images\Screenshot 2025-03-01 200549.png
+2025-03-01 21:32:30,874 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200549.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:30,875 - INFO: Progress: 101/117 images processed
+2025-03-01 21:32:30,875 - INFO: Processing image: input_images\Screenshot 2025-03-01 200604.png
+2025-03-01 21:32:31,226 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200604.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:31,227 - INFO: Progress: 102/117 images processed
+2025-03-01 21:32:31,227 - INFO: Processing image: input_images\Screenshot 2025-03-01 200615.png
+2025-03-01 21:32:31,423 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200615.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:31,424 - INFO: Progress: 103/117 images processed
+2025-03-01 21:32:31,424 - INFO: Processing image: input_images\Screenshot 2025-03-01 200625.png
+2025-03-01 21:32:31,637 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200625.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:31,638 - INFO: Progress: 104/117 images processed
+2025-03-01 21:32:31,638 - INFO: Processing image: input_images\Screenshot 2025-03-01 200635.png
+2025-03-01 21:32:31,870 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200635.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:31,871 - INFO: Progress: 105/117 images processed
+2025-03-01 21:32:31,871 - INFO: Processing image: input_images\Screenshot 2025-03-01 200644.png
+2025-03-01 21:32:32,307 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200644.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:32,307 - INFO: Progress: 106/117 images processed
+2025-03-01 21:32:32,307 - INFO: Processing image: input_images\Screenshot 2025-03-01 200705.png
+2025-03-01 21:32:32,540 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200705.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:32,541 - INFO: Progress: 107/117 images processed
+2025-03-01 21:32:32,541 - INFO: Processing image: input_images\Screenshot 2025-03-01 200714.png
+2025-03-01 21:32:32,768 - ERROR: Error during prediction for input_images\Screenshot 2025-03-01 200714.png: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:32,769 - INFO: Progress: 108/117 images processed
+2025-03-01 21:32:32,769 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg
+2025-03-01 21:32:33,304 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-15-04-449_com.google.android.apps.docs.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,305 - INFO: Progress: 109/117 images processed
+2025-03-01 21:32:33,305 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg
+2025-03-01 21:32:33,541 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-20-38-877_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,542 - INFO: Progress: 110/117 images processed
+2025-03-01 21:32:33,542 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg
+2025-03-01 21:32:33,643 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-41-130_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,644 - INFO: Progress: 111/117 images processed
+2025-03-01 21:32:33,644 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg
+2025-03-01 21:32:33,748 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-57-52-610_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,749 - INFO: Progress: 112/117 images processed
+2025-03-01 21:32:33,749 - INFO: Processing image: input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg
+2025-03-01 21:32:33,860 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-00-58-00-035_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,861 - INFO: Progress: 113/117 images processed
+2025-03-01 21:32:33,861 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg
+2025-03-01 21:32:33,969 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-07-40-924_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:33,969 - INFO: Progress: 114/117 images processed
+2025-03-01 21:32:33,969 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg
+2025-03-01 21:32:34,081 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-38-436_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:34,082 - INFO: Progress: 115/117 images processed
+2025-03-01 21:32:34,082 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg
+2025-03-01 21:32:34,185 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-43-979_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:34,185 - INFO: Progress: 116/117 images processed
+2025-03-01 21:32:34,186 - INFO: Processing image: input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg
+2025-03-01 21:32:34,296 - ERROR: Error during prediction for input_images\Screenshot_2024-11-29-01-19-48-473_com.google.android.gm.jpg: 500 Server Error: INTERNAL SERVER ERROR for url: http://www.prom.ddnsfree.com:8989/predictionboxMS
+2025-03-01 21:32:34,297 - INFO: Progress: 117/117 images processed
+2025-03-01 21:32:34,297 - INFO: 
+--- Processing Summary ---
+2025-03-01 21:32:34,297 - INFO: Total images: 117
+2025-03-01 21:32:34,297 - INFO: Successfully processed: 117
+2025-03-01 21:32:34,298 - INFO: Skipped images: 0
+2025-03-01 21:32:34,298 - INFO: Errors encountered: 0
