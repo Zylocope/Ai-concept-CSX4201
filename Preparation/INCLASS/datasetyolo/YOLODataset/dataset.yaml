@@ -1,0 +1,10 @@
+path: \\?\C:\Users\lamin\OneDrive\Desktop\4201_AI\INCLASS\datasetyolo\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: val_size
+    2: --
+    3: test_size
+    4: 0.1
